@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/Testhr.dir/main.cpp.o  -o Testhr 
